@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mahesh Shopping</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <h1>Maheshop</h1>
+            <nav>
+                <a href="#About">About</a>
+                <a href="#location">Location</a>
+                <a href="#contact">Contact</a>
+            </nav>
+    </header>
+
+    <main>        
+        <section id="About">
+            <h3>About our Shop</h3>
+            <img src="C:\Users\Vaishnavi\Desktop\1st project" alt="Maheshop">
+            <p>Maheshop is a vibrant and customer-centric retail store offering a wide range of products to meet the needs of every shopper. Whether you're looking for the latest tech gadgets, fashion trends, or home essentials, Maheshop prides itself on delivering high-quality items at competitive prices. With an easy-to-navigate online platform, fast delivery, and excellent customer service, Maheshop aims to provide a seamless shopping experience. It's the go-to destination for value-conscious shoppers who want convenience without compromising on quality.</p>
+        </section>
+        <section id="location">
+            <h2>maheshop located in</h2>
+            <ol>
+                <li>Chennai</li>
+                <li>Theni</li>
+                <li>Madurai</li>
+                <li>Coimbatore</li>
+                <li>Bangalore</li>
+            </ol>
+        </section>
+        <section id="contact">
+            <h2>Contact Our Shop</h2>
+            <p>Email:maheshop@gmail.com</p>
+        </section>
+    </main>
+<footer>
+        Developed By ME
+</footer>
+
+
+</body>
+</html>
